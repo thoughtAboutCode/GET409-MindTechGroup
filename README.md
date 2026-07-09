@@ -27,3 +27,10 @@
 ---
 
 ## Livrables S1
+
+- [x] Fiche équipe → [Voir le fichier](documents/fiche-equipe.md)
+- [x] Dépôt GitHub public créé
+- [x] Carte d'empathie → [Voir le fichier](documents/carte-empathie.md)
+- [x] Énoncé HMW validé
+
+---
