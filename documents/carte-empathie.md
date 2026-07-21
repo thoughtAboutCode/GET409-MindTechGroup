@@ -6,60 +6,71 @@
 |---|---|
 | Prénom, âge, profession | Awa, 23 ans, étudiante en licence + petit commerce en ligne |
 | Localisation | Pikine, banlieue de Dakar, Sénégal |
-| Problème principal | Vit un stress intense (études, pression familiale, avenir incertain) mais n'ose demander aucune aide par peur d'être vue comme « folle » |
+| Secteur | Santé & télémédecine — santé mentale des jeunes |
 | Équipement digital | Smartphone Android d'entrée de gamme, data limitée, WhatsApp et TikTok au quotidien |
-| Revenus approximatifs | Faibles — dépend en partie du soutien familial et de son petit commerce |
-| Contexte familial | Famille conservatrice, forte pression de réussite, sujets psychologiques tabous à la maison |
+
+## Verbatims collectés
+
+**Ce qu'elle a dit :**
+- *« J'ai envoyé un vocal à Fatou, et après je l'ai supprimé... j'avais honte de m'entendre comme ça, aussi faible. »*
+- *« Ma mère dirait direct d'aller voir le marabout... ils ne connaissent pas ça. »*
+- *« C'est le regard des gens, le plus dur. Pas l'argent, pas de trouver où aller — c'est que quelqu'un l'apprenne. »*
+- *« Un truc où je peux écrire ce que je ressens, où personne ne sait que c'est moi, même pas mes amies. »*
+
+**Ce qu'elle a fait :**
+- Envoie un vocal à sa meilleure amie en pleine crise de stress, puis le supprime immédiatement après.
+- Cherche « comment gérer le stress » sur Google tard le soir, puis efface l'historique par réflexe.
+
+**Émotions détectées :** Honte, résignation, peur du jugement, besoin urgent d'anonymat.
+
+---
 
 ## 1. Ce qu'elle PENSE ET RESSENT
 
-- « Quelque chose ne va pas chez moi, mais je dois tenir bon pour ma famille qui compte sur ma réussite. »
-- Peur constante que son mal-être soit découvert et interprété comme une faiblesse ou une attaque mystique (maraboutage).
-- Honte mêlée de solitude : elle porte seule ce qu'elle vit.
+- Elle a intériorisé que montrer sa vulnérabilité, même à elle-même, est une faiblesse à cacher — au point d'effacer ses propres traces de recherche d'aide.
+- Elle anticipe déjà la réaction de ses parents (marabout, déni) avant même d'avoir tenté d'en parler : la résignation précède la tentative.
+- Ce qui pèse le plus n'est pas matériel (argent, accès) mais social : la peur que « quelqu'un l'apprenne ».
 
 ## 2. Ce qu'elle VOIT
 
-- Des malades mentaux errants dans la rue — seule image visible de la « santé mentale » dans son quartier.
-- Sur TikTok, des jeunes d'autres pays parler librement de leur anxiété — un monde qui lui semble inaccessible.
+- Des personnes en souffrance psychique traitées de « possédées » dans son entourage — aucune autre grille de lecture disponible.
+- Aucune ressource en français ou en langues locales adaptée à son quotidien quand elle cherche en ligne (contenus « en anglais, compliqués, pas pour nous »).
 
 ## 3. Ce qu'elle ENTEND
 
-- Sa famille dire que la dépression est « une maladie de Blancs » ou « un manque de foi ».
-- Ses amies chuchoter qu'une fille du quartier qui s'isole « n'est plus normale ».
+- Sa mère suggérerait spontanément un recours au marabout plutôt qu'à un professionnel de santé.
+- Son père minimiserait sa détresse (« pas de vrais problèmes », « elle dramatise »).
 
 ## 4. Ce qu'elle DIT ET FAIT
 
-- Répond systématiquement « ça va, juste un peu fatiguée » à toute question sur son état.
-- S'isole de plus en plus sans que son entourage s'en rende compte.
-- Efface ses recherches Google sur le stress ; supprime ses messages vocaux WhatsApp après les avoir envoyés à une amie.
-- Verbatim : *« Si je dis que je vais mal, on va dire que je cherche l'attention, ou pire, qu'on m'a maraboutée. »*
+- Se confie une fois à son amie la plus proche, dans l'instant de crise — puis supprime la preuve de cette confidence, y compris auprès d'une personne de confiance.
+- Recherche des solutions seule, en ligne, tard le soir, en autocensurant ensuite ses traces numériques.
 
 ## 5. Frustrations (Pains)
 
 | Frustration | Intensité |
 |---|---|
-| Aucun espace sûr, anonyme et abordable où déposer ce qu'elle vit | ★★★ |
-| Peur que la démarche expose sa famille au jugement du quartier | ★★★ |
-| Ignore où trouver de l'aide, son coût, sa localisation | ★★ |
-| Vocabulaire médical qui fait peur et stigmatise | ★★ |
+| Peur que sa démarche soit découverte, même par ses proches les plus fiables | ★★★ |
+| Absence de ressources en ligne adaptées à sa langue et à son contexte | ★★★ |
+| Anticipation négative de la réaction familiale (marabout, déni) qui décourage avant même d'essayer | ★★ |
+| Réponse trop lente si elle osait franchir le pas (« pas dans 3 jours ») | ★★ |
 
 ## 6. Aspirations (Gains)
 
 | Aspiration | Priorité |
 |---|---|
-| Parler à quelqu'un de confiance, en toute discrétion, depuis son téléphone | ★★★ |
-| Se sentir comprise sans étiquette de « malade » | ★★★ |
-| Voir un jour son entourage parler de ces sujets sans tabou | ★★ |
-| Pouvoir agir sans que cela coûte cher ni prenne de temps | ★★ |
+| Un espace où même ses amies proches ne sauraient pas que c'est elle | ★★★ |
+| Une réponse rapide, quasi immédiate, au moment où elle en a besoin | ★★★ |
+| Une famille qui, un jour, réagirait par le soutien plutôt que par la peur ou le déni | ★★ |
 
 ## Insights clés (pour le HMW)
 
-1. Awa cherche déjà de l'aide à sa façon (confidence à une amie, recherches en ligne) mais efface systématiquement les traces — le besoin existe, c'est l'exposition sociale qui bloque.
-2. Le vocabulaire « santé mentale » est lui-même un obstacle : il déclenche la peur d'être cataloguée avant même d'avoir cherché de l'aide.
-3. La confiance passe par des figures familières et non médicales (une amie proche, une figure comme la badiane) plutôt que par une institution.
+1. Le frein n'est pas l'accès ou le coût, mais l'exposition — même auprès de sa meilleure amie, Awa efface la trace de sa vulnérabilité : l'anonymat total, pas seulement la confidentialité, est la condition d'usage.
+2. Ses tentatives d'auto-recherche échouent car les ressources disponibles sont culturellement et linguistiquement inadaptées à son quotidien.
+3. Elle anticipe le rejet familial avant même de tenter d'en parler — un service efficace doit d'abord exister *en dehors* du cercle familial, sans dépendre de son adhésion immédiate.
 
 ## Énoncé HMW
 
-Comment pourrions-nous permettre aux jeunes Sénégalais comme Awa de trouver une écoute bienveillante et confidentielle depuis leur smartphone, sous une forme aussi familière qu'une conversation avec une tante de confiance, afin qu'ils cherchent de l'aide sans craindre le regard de leur communauté ?
+Comment pourrions-nous offrir aux jeunes Sénégalais comme Awa un espace d'écoute totalement anonyme — même vis-à-vis de leurs proches — et culturellement familier, pour qu'ils osent exprimer leur détresse sans attendre que leur entourage soit prêt à les comprendre ?
 
 ---
