@@ -9,7 +9,7 @@
 ---
 🔗 **MVP en ligne :** [Diisoo](https://app.diisoo.workers.dev/)
 ---
-🔗 **Dépôt Github du MVP en ligne :** [https://github.com/thoughtAboutCode/diisoo]
+🔗 **Dépôt Github du MVP en ligne :** [Github du MVP](https://github.com/thoughtAboutCode/diisoo)
 ---
 
 ## Notre équipe
