@@ -11,6 +11,8 @@
 ---
 🔗 **Dépôt Github du MVP en ligne :** [Github du MVP](https://github.com/thoughtAboutCode/diisoo)
 ---
+🔗 **Teaser du MVP en vidéo sur drive :** [`Teaser Diisoo drive`](https://drive.google.com/drive/folders/1nmdMHmOYy6a2w9r9YwhD-ZYUWRE_5fWP?usp=sharing)
+---
 🔗 **Teaser du MVP en vidéo :** [`Teaser Diisoo`](data/Teaser%20DIISOO.mp4)
 ---
 
