@@ -7,7 +7,7 @@
  
 **Diisoo** est un espace d'écoute anonyme destiné aux jeunes Sénégalais en détresse psychologique, porté par **SamaBadiane**, un agent conversationnel au ton de badiane — cette tante à qui, dans la culture sénégalaise, on confie ce qu'on ne peut dire à personne d'autre.
 ---
-🔗 **MVP en ligne :** [https://app.diisoo.workers.dev/]
+🔗 **MVP en ligne :** [Diisoo](https://app.diisoo.workers.dev/)
 ---
 🔗 **Dépôt Github du MVP en ligne :** [https://github.com/thoughtAboutCode/diisoo]
 ---
